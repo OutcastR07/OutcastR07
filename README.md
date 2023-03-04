@@ -2,9 +2,7 @@
 👋 Hi there! My name is Sadman and I'm a frontend developer who develops interactive and responsive websites. Currently learning backend to master full stack development. I watch sports and play games during my leisure times. I am a jolly and friendly person, feel free to reach me through my socials. 
 
 # 📊 GitHub Stats:
-<div style="text-align: center;">
-  ![](https://github-readme-stats.vercel.app/api?username=OutcastR07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=OutcastR07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=OutcastR07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api/top-langs/?username=OutcastR07&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layou
 
 
 # 💻 Tech Stack:
