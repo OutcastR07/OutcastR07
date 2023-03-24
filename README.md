@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects to develop skills<br>🌱 I’m currently learning Node.js<br>💻 I watch sports and play video games<br>💬 Ask me anything<br>⚡ Fun fact: It is impossible to lick your elbow
+🔭 I’m currently working on personal projects to develop skills<br>🌱 Learning Node.js at the moment<br>💻 I watch sports and play video games<br>💬 Feel free to ask me anything<br>⚡ Fun fact: It is impossible to lick your elbow
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=OutcastR07&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=OutcastR07&icon=0&color=0)](https://visitcount.itsvg.in)
