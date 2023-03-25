@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects to develop skills<br>🌱 Learning Node.js at the moment<br>💻 I watch sports and play video games<br>💬 Feel free to ask me anything<br>⚡ Fun fact: It is impossible to lick your elbow
+🔭 I’m currently working on personal projects to develop skills<br>🌱 Learning Node.js at the moment<br>💻 I watch sports and play video games<br>💬 Feel free to ask me anything<br>⚡ Fun fact:  It took less code to send a man to the Moon than to run a smartphone
 
 
 ## 🌐 Socials:
